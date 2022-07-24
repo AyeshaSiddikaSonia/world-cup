@@ -1,0 +1,103 @@
+body{
+	font-family: 'Poppins', sans-serif;
+	margin: 0;
+}
+.container{
+	
+	background-color: #FFFFFF;
+	/* width: 100%; */
+	
+}
+/* css for top banner */
+.top-banner{
+	background-color: black;
+	width: 1321px;
+	display: flex;
+	border-radius: 20px;
+	margin-left: 10px;
+	padding-top: 40px;
+}
+.half-width{
+	width: 50%;
+	top: 111px;
+	margin-left:100px;
+	
+}
+h1{
+	font-size: 70px;
+	/* font-weight: 700; */
+	color: #FFFFFF;
+	
+}
+p{
+	color:#FFFFFF ;
+	margin-top: -20px;
+}
+
+.anchor{
+
+	width: 150px;
+	padding: 5px 10px;
+	background-color: rgb(13, 128, 173);
+	border-radius: 5px;
+	margin-bottom: 30px;
+	
+}
+.live{
+	
+	margin-left: 18px;
+}
+.half-width a {
+	text-decoration: none;
+	color: aliceblue;
+}
+.fa-solid{
+	color:aliceblue;
+}
+.half-width img{
+	width: 100%;
+	top:10px;
+	/* margin-left: 661px; */
+}
+/* top blogs css */
+/* nav{
+	display: flex;
+	flex-direction:column ;
+	width: 40%;
+	border: 1px solid blue;
+	background-color: goldenrod;
+} */
+
+
+/* footer css */
+.foot{
+	width: 100%;
+	background-color: black;
+}
+.goal{
+	text-align: center;
+	padding-top: 80px;
+	color: aliceblue;
+}
+hr{
+	width: 90%;
+	color:#FFFFFF;
+}
+nav >ul{
+	display: flex;
+
+}
+nav li{
+	list-style-type: none;
+	margin-left: 80px;
+	padding:0px 10px;
+	margin-bottom: 100px;
+	padding-top: 20px;
+
+	
+}
+nav li a{
+	text-decoration: none;
+	color: antiquewhite;
+	font-size: 16px;
+}
